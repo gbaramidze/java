@@ -1,0 +1,19 @@
+{
+  "topbar": {
+    "general": "General",
+    "customer_center": "Customer Center",
+    "about_us": "About Us"
+  },
+  "navigation": {
+    "company": "Hello!",
+    "shop": "Shop",
+    "services": "Services",
+    "internet": "Internet",
+    "roaming": "Roaming",
+    "help": "Help & Support",
+    "search": {
+      "hover": "Click here to search",
+      "placeholder": "Click enter to search"
+    }
+  }
+}

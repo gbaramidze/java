@@ -1,0 +1,19 @@
+body {
+	background: url(../images/main.png); min-height: 2432px;
+}
+
+@media screen and (min-width: 1400px) {
+	.container {
+		max-width: 1377px;
+	}
+}
+
+header .nav li a {
+	color: #40006c;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+.topbar {
+	background: #f6f6f6;
+}
